@@ -61,6 +61,8 @@ pnpm start
 ## Wildcard (replace the * with anything you want, for GoGuardian  using the keyword "math" is recommended.
 - https://*.supergisfire.com.cdn.cloudflare.net/
 
+More wildcard links: [https://gist.github.com/InternetBowser670/10f583924cae5895f0b89b8d7cb3177f](https://gist.github.com/InternetBowser670/10f583924cae5895f0b89b8d7cb3177f)
+
 ## LS: 
 
 - https://auth.emili.com/
